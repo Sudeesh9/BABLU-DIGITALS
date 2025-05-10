@@ -1,3 +1,1 @@
-function showMessage() {
-  alert("Thank you for visiting Bablu Digitals!");
-}
+console.log("Welcome to Bablu Digitals!");
